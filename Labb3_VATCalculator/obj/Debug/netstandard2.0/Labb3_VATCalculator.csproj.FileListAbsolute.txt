@@ -1,0 +1,13 @@
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/Labb3_VATCalculator.csprojAssemblyReference.cache
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/Labb3_VATCalculator.AssemblyInfoInputs.cache
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/Labb3_VATCalculator.AssemblyInfo.cs
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/Labb3_VATCalculator.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/ref/Labb3_VATCalculator.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/Labb3_VATCalculator.pdb
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/bin/Debug/netstandard2.0/Labb3_VATCalculator.deps.json
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/bin/Debug/netstandard2.0/Labb3_VATCalculator.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/bin/Debug/netstandard2.0/ref/Labb3_VATCalculator.dll
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/bin/Debug/netstandard2.0/Labb3_VATCalculator.pdb
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Labb3_VATCalculator/Labb3_VATCalculator/obj/Debug/netstandard2.0/XamlC.stamp

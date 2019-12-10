@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Labb3_VATCalculator.MainPage"
+             BackgroundColor="LightSkyBlue"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             ios:Page.UseSafeArea="true">
+    <StackLayout VerticalOptions="CenterAndExpand">
+        <Label Text="Inmatat Belopp:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Label x:Name="priceLabel"
+                Text="100 Sek" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            
+        <Label Text="Momssats:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Label x:Name="vatLabel"
+                Text="25%" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            
+        <Label Text="Uträknat Belopp:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Label x:Name="outputPriceLabel"
+                Text="80 Sek" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            
+        <Label Text="Uträknad Moms:" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Label x:Name="outputVatLabel"
+                Text="20 Sek" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            
+        <Entry x:Name="inputField"
+                Placeholder="Skriv ett belopp inklusive moms"
+                Margin="40,20,40,20"
+                HorizontalTextAlignment="Center"
+                Keyboard="Numeric"/>
+
+        <Button x:Name="Button1"
+                Text="8%"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                BorderWidth="5"
+                FontSize="Large"
+                TextColor="White"
+                BackgroundColor="DeepSkyBlue"/>
+
+        <Button x:Name="Button2"
+                Text="12%"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                BorderWidth="5"
+                FontSize="Large"
+                TextColor="White"
+                BackgroundColor="DeepSkyBlue"/>
+
+        <Button x:Name="Button3"
+                Text="25%"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                BorderWidth="5"
+                FontSize="Large"
+                TextColor="White"
+                BackgroundColor="DeepSkyBlue"/>
+    </StackLayout>
+</ContentPage>
